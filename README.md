@@ -14,8 +14,7 @@ Clona um repositório remoto do Github para um repositório local
 
 Mostra a situação do stage e not stage do epositório local  
 
-Stage - área de preparação, Not Stage local onde ficam os arquivos modificados e que ianda não foram adicionados a  
-área do Stage.
+Stage - área de preparação, Not Stage local onde ficam os arquivos modificados e que ianda não foram adicionados a área do Stage.
 
 ## git add
 
